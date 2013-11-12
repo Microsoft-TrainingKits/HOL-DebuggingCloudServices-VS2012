@@ -52,3 +52,4 @@ packages
 *.docstates
 *.InstallLog
 *.build.csdef
+entry.xml
